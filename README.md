@@ -1,5 +1,7 @@
 # WebODM
-A free, user-friendly, extendable application and API for drone image processing 📷 ✈ 
+
+
+
 
 
 For those with Linux Knowledge I did the best thing I can think of to help Windows People.
